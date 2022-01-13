@@ -1,0 +1,7 @@
+db.empresas.insertMany([{
+  nome: "Bradesco",
+  estadoId: ObjectId("61df3fcc98e71febfd86c2d3")
+},{
+  nome: "Vale",
+  cidadeId: ObjectId("61df3fcc98e71febfd86c2d2")
+}])
