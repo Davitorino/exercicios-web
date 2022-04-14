@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-schedule": "1.3.0"
+  },
+  "name": "exercicios-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davitorino/exercicios-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davitorino/exercicios-web/issues"
+  },
+  "homepage": "https://github.com/Davitorino/exercicios-web#readme",
+  "description": ""
+}
